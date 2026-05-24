@@ -1,10 +1,9 @@
 def my_function():
-    credential_value = "demo"
+    password = "demo@123"
     a = 5
 
-    print(credential_value)
+    print(password)
     return a
 
 
 my_function()
-
